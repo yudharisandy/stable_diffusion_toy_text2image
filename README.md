@@ -33,6 +33,8 @@ pip install scipy ftfy
 ```
 ## The scheme of the [toy_code_stable_diffusion_full.ipynb](https://github.com/Sejong-VLI/Text-to-Image-Stable-Diffusion-Example/blob/main/Toy_code_stable_diffusion_full.ipynb) notebook:
 
+The other checkpoints used in the notebook have been attached in the specific link, you can download them by running the code in the notebook.
+
 ### Preliminaries
 - Install dependencies
 - Import libraries
