@@ -2,7 +2,7 @@
 
 ![training-scheme](assets/training.jpg)
 
-This notebook contains code of the toy code of stable diffusion. This notebook is made for students of Vision Language Intelligence Lab, Sejong Univeristy.
+This notebook contains code of the toy code of stable diffusion.
 
 ## Requirements
 A suitable conda environment named 'stable_diffusion' can be created and activated with:
